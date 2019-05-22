@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00b81e92-d1b2-4c43-b35d-5b970ef73e33" name="Default Changelist" comment="" />
+    <list default="true" id="00b81e92-d1b2-4c43-b35d-5b970ef73e33" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,18 +50,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/pao/util/DBconn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="7" column="129" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="129" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/me/pao/web/controller/GetPartBody.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -131,14 +122,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/me/pao/web/ui/LoginUIServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="285">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/uploadimg.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -193,6 +193,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -259,10 +262,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
+    <option name="x" value="-12" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -271,121 +273,87 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
+              <item name="FR-Manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR-Manager" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
+              <item name="FR-Manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR-Manager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
+              <item name="FR-Manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR-Manager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
+              <item name="FR-Manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR-Manager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
+              <item name="FR-Manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR-Manager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="me" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="me" type="462c0819:PsiDirectoryNode" />
-              <item name="pao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
+              <item name="FR-Manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR-Manager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="me" type="462c0819:PsiDirectoryNode" />
               <item name="pao" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
+              <item name="FR-Manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR-Manager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="me" type="462c0819:PsiDirectoryNode" />
               <item name="pao" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
+              <item name="FR-Manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR-Manager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="me" type="462c0819:PsiDirectoryNode" />
               <item name="pao" type="462c0819:PsiDirectoryNode" />
               <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
+              <item name="FR-Manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR-Manager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="me" type="462c0819:PsiDirectoryNode" />
               <item name="pao" type="462c0819:PsiDirectoryNode" />
               <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
+              <item name="FR-Manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR-Manager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="me" type="462c0819:PsiDirectoryNode" />
               <item name="pao" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="me" type="462c0819:PsiDirectoryNode" />
-              <item name="pao" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="me" type="462c0819:PsiDirectoryNode" />
-              <item name="pao" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
+              <item name="FR-Manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR-Manager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="me" type="462c0819:PsiDirectoryNode" />
               <item name="pao" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
+              <item name="FR-Manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR-Manager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="me" type="462c0819:PsiDirectoryNode" />
               <item name="pao" type="462c0819:PsiDirectoryNode" />
@@ -393,17 +361,8 @@
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="me" type="462c0819:PsiDirectoryNode" />
-              <item name="pao" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webDemo4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webDemo4" type="462c0819:PsiDirectoryNode" />
+              <item name="FR-Manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR-Manager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="me" type="462c0819:PsiDirectoryNode" />
               <item name="pao" type="462c0819:PsiDirectoryNode" />
@@ -414,6 +373,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -424,7 +385,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555224797596" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Chemiety-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -583,11 +544,14 @@
       <workItem from="1556440105544" duration="37000" />
       <workItem from="1557800203934" duration="791000" />
       <workItem from="1557838926638" duration="91000" />
+      <workItem from="1558149592021" duration="605000" />
+      <workItem from="1558404108249" duration="2177000" />
+      <workItem from="1558499556978" duration="590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182660000" />
+    <option name="totallyTimeSpent" value="186032000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -599,9 +563,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-3" y="0" width="654" height="688" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2934519" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3137584" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -660,20 +625,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://83e75109-c2a2-4a7e-a85c-0da6c287d861/schema/webdemo4/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://83e75109-c2a2-4a7e-a85c-0da6c287d861/schema/webdemo4/table/img">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://83e75109-c2a2-4a7e-a85c-0da6c287d861/schema/webdemo4/table/user" />
+    <entry file="das://83e75109-c2a2-4a7e-a85c-0da6c287d861/schema/webdemo4/table/img" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/83e75109-c2a2-4a7e-a85c-0da6c287d861/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -846,13 +799,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/uploadimg.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/me/pao/domain/Record.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -943,6 +889,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/pao/web/ui/LoginUIServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/me/pao/exception/UserExistException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -974,13 +930,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/pao/web/ui/LoginUIServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/uploadimg.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="247">
+          <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
         </state>
       </provider>
     </entry>
